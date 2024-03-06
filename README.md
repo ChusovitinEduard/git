@@ -31,23 +31,54 @@
  ![alt text](https://github.com/ChusovitinEduard/git/blob/main/img/1.PNG)
  
 3. * Выполняю git clone
+
 ![alt text](https://github.com/ChusovitinEduard/git/blob/main/img/2.PNG)
+
 4. `Перехожу в каталог с клоном репозитория.`
+
 ![alt text](https://github.com/ChusovitinEduard/git/blob/main/img/3.PNG)
+
 5. `Произвожу первоначальную настройку Git` 
+
 ![alt text](https://github.com/ChusovitinEduard/git/blob/main/img/4.PNG)
+
 6. `Выполняю команду git status и запомниаю результат` 
+
 ![alt text](https://github.com/ChusovitinEduard/git/blob/main/img/5.PNG)
-7. `Редактирую файл README.md при помощи nano, файл в состоянии Modified.` 
+
+7. `Редактирую файл README.md при помощи nano, файл в состоянии Modified.`
+ 
 ![alt text](https://github.com/ChusovitinEduard/git/blob/main/img/6.PNG)
+
 8. `Перевожу файл в состояние staged, добавляю файл в коммит, командой git add README.md.` 
+
 9. `Сделаю коммит git commit -m 'test commit'.` 
+
 ![alt text](https://github.com/ChusovitinEduard/git/blob/main/img/7.PNG)
+
 13. `Делаю git push origin .` 
+
 ![alt text](https://github.com/ChusovitinEduard/git/blob/main/img/8.PNG)
+
 ![alt text](https://github.com/ChusovitinEduard/git/blob/main/img/9.PNG)
 
 ![ссылка на коммит test commit](https://github.com/ChusovitinEduard/git/commit/39b2756c7f919ce518aaf89cbedbb0971ce21fb9)
 
 ---
 
+### Задание 2
+
+1. `Создаю файл .gitignore, проверяю его статус сразу после создания.`
+
+![alt text](https://github.com/ChusovitinEduard/git/blob/main/img/2_1.PNG)
+2. `Добавляю файл .gitignore в коммит git add .gitignore` 
+
+![alt text](https://github.com/ChusovitinEduard/git/blob/main/img/2_2.PNG)
+
+3. `Добавляю правила в файл .gitignore, чтобы игнорировать любые файлы .pyc, а также все файлы в директории cache.`
+4. `Делаю комит и пуш` 
+
+![alt text](https://github.com/ChusovitinEduard/git/blob/main/img/2_3.PNG)
+  
+
+![ссылка на коммит Second Commit](https://github.com/ChusovitinEduard/git/commit/d9100f7f75e91b6cf91529e7b185e54cd65216c1)
