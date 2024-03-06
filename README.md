@@ -30,16 +30,22 @@
  
  ![alt text](https://github.com/ChusovitinEduard/git/blob/main/img/1.PNG)
  
-3. * Выполняю git clone   ![скрин](img/2.png)
-4. `Перехожу в каталог с клоном репозитория.` ![скрин](img/3.png)
-5. `Произвожу первоначальную настройку Git` ![скрин](img/4.png)
-   * git config --global user.name ibrovko78
-   * git config --global user.email i.brovko@internet.ru
-6. `Выполняю команду git status и запомниаю результат` ![скрин](img/5.png)
-7. `Редактирую файл README.md при помощи nano, файл в состоянии Modified.` ![скрин](img/6.png)
+3. * Выполняю git clone
+![alt text](https://github.com/ChusovitinEduard/git/blob/main/img/2.PNG)
+4. `Перехожу в каталог с клоном репозитория.`
+![alt text](https://github.com/ChusovitinEduard/git/blob/main/img/3.PNG)
+5. `Произвожу первоначальную настройку Git` 
+![alt text](https://github.com/ChusovitinEduard/git/blob/main/img/4.PNG)
+6. `Выполняю команду git status и запомниаю результат` 
+![alt text](https://github.com/ChusovitinEduard/git/blob/main/img/5.PNG)
+7. `Редактирую файл README.md при помощи nano, файл в состоянии Modified.` 
+![alt text](https://github.com/ChusovitinEduard/git/blob/main/img/6.PNG)
 8. `Перевожу файл в состояние staged, добавляю файл в коммит, командой git add README.md.` 
-9. `Сделаю коммит git commit -m 'test commit'.` ![скрин](img/7.png)
-13. `Делаю git push origin .` ![скрин1](img/8.png) ![скрин2](img/9.png)
+9. `Сделаю коммит git commit -m 'test commit'.` 
+![alt text](https://github.com/ChusovitinEduard/git/blob/main/img/7.PNG)
+13. `Делаю git push origin .` 
+![alt text](https://github.com/ChusovitinEduard/git/blob/main/img/8.PNG)
+![alt text](https://github.com/ChusovitinEduard/git/blob/main/img/9.PNG)
 
 ![ссылка на коммит test commit](https://github.com/ChusovitinEduard/git/commit/39b2756c7f919ce518aaf89cbedbb0971ce21fb9)
 
