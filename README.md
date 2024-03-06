@@ -71,6 +71,7 @@
 1. `Создаю файл .gitignore, проверяю его статус сразу после создания.`
 
 ![alt text](https://github.com/ChusovitinEduard/git/blob/main/img/2_1.PNG)
+
 2. `Добавляю файл .gitignore в коммит git add .gitignore` 
 
 ![alt text](https://github.com/ChusovitinEduard/git/blob/main/img/2_2.PNG)
@@ -94,4 +95,4 @@
 ![alt text](https://github.com/ChusovitinEduard/git/blob/main/img/3_2.PNG)
 ![alt text](https://github.com/ChusovitinEduard/git/blob/main/img/3_3.PNG)
 
-![ссылка на граф коммитов] (https://github.com/ChusovitinEduard/git/tree/dev?tab=readme-ov-file)
+![ссылка на граф коммитов](https://github.com/ChusovitinEduard/git/tree/dev?tab=readme-ov-file)
