@@ -95,4 +95,8 @@
 ![alt text](https://github.com/ChusovitinEduard/git/blob/main/img/3_2.PNG)
 ![alt text](https://github.com/ChusovitinEduard/git/blob/main/img/3_3.PNG)
 
+Доработка
+
+![alt text](https://github.com/ChusovitinEduard/git/blob/main/img/3_4.PNG)
+
 ![ссылка на граф коммитов](https://github.com/ChusovitinEduard/git/tree/dev?tab=readme-ov-file)
