@@ -26,7 +26,10 @@
 
 1. `Аккаунт на GitHub зарегистрирован`  
 2. `Публичный репозиторий создан` 
-   * Галочка в поле «Initialize this repository with a README» проставлена. ![alt text](https://github.com/ChusovitinEduard/git/tree/main/img/1.PNG)
+   * Галочка в поле «Initialize this repository with a README» проставлена. 
+ 
+ ![alt text](https://github.com/ChusovitinEduard/git/blob/main/img/1.PNG)
+ 
 3. * Выполняю git clone   ![скрин](img/2.png)
 4. `Перехожу в каталог с клоном репозитория.` ![скрин](img/3.png)
 5. `Произвожу первоначальную настройку Git` ![скрин](img/4.png)
