@@ -82,3 +82,16 @@
   
 
 ![ссылка на коммит Second Commit](https://github.com/ChusovitinEduard/git/commit/d9100f7f75e91b6cf91529e7b185e54cd65216c1)
+
+### Задание 3
+
+1. `Создаю новую ветку dev и сразу переключаюсь на неё. git checkout -b dev` 
+2. `Создаю файл test.sh с произвольным содержимым.` 
+3. `Сделаю несколько коммитов и пушей, имитируя активную работу над файлом test.sh.` 
+4. `Сделайте мердж этой ветки в основную. Сначала нужно переключиться на неё, а потом вызывать git merge.`
+5. `Сделайте коммит и пуш.` 
+![alt text](https://github.com/ChusovitinEduard/git/blob/main/img/3_1.PNG)
+![alt text](https://github.com/ChusovitinEduard/git/blob/main/img/3_2.PNG)
+![alt text](https://github.com/ChusovitinEduard/git/blob/main/img/3_3.PNG)
+
+![ссылка на граф коммитов] (https://github.com/ChusovitinEduard/git/tree/dev?tab=readme-ov-file)
